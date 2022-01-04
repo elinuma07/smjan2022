@@ -1,0 +1,114 @@
+{
+  "tests": [
+    {
+      "name": "01",
+      "setup": "npm i",
+      "run": "npm run test01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "02",
+      "setup": "npm i",
+      "run": "npm run test02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "03",
+      "setup": "npm i ",
+      "run": "npm run test03",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "04",
+      "setup": "npm i",
+      "run": "npm run test04",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "05",
+      "setup": "npm i",
+      "run": "npm run test05",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "06",
+      "setup": "npm i",
+      "run": "npm run test06",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "07",
+      "setup": "npm i",
+      "run": "npm run test07",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "08",
+      "setup": "npm i",
+      "run": "npm run test08",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "09",
+      "setup": "npm i",
+      "run": "npm run test09",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "npm i",
+      "run": "npm run test10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "11",
+      "setup": "npm i",
+      "run": "npm run test11",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
